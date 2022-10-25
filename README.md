@@ -1,1 +1,2 @@
-# Trilha JS Developer - Pokedex
+# Bootcamp Inter Tech + - Pokedex
+# Dio.me
